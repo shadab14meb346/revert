@@ -55,14 +55,9 @@ Thumbs.db
 npm-debug.log*
 
 # local env files
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
-.env
-.env.development
-.env.test
-.env.production
 
 # VS Code
 .vscode/
@@ -86,3 +81,4 @@ npm-debug.log*
 !fern/**/*.yml
 revert-dev.js
 .yarn/install-state.gz
+config.bat
